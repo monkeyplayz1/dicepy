@@ -9,3 +9,5 @@ print('dice has been rolled!')
 if roll == 6:
     #change the 6 to what you want
  print('you have found the lucky number!')
+ 
+ print('Made by monkeygamer')
