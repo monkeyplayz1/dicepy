@@ -1,4 +1,4 @@
-Dicepy is a free and easy module for python with easy changeable template
+Dicepy is a free and easy module for python with easy changeable template.
 
 
 
